@@ -14,4 +14,4 @@ So that I fully understand what the feature is, it would be extremely helpful to
 - Sketches of what you are imagining
 
 ### Translations
-Not ready for this yet, please stay tuned for more information.  If you are interested in translating, please respond to this issue so that I can reach out when I have a system for translations set up.
+Not ready for this yet, please stay tuned for more information.  If you are interested in translating, please respond to this issue (https://github.com/Burn-E99/D2ZeroHourConfigurationSolver/issues/1#issue-442730400) so that I can reach out when I have a system for translations set up.
