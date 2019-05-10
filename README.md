@@ -1,7 +1,7 @@
 # Destiny 2 Zero Hour Configuration Solver
 Welcome to the Github Repository for the Zero Hour Configuration Solver.  This repository will be primarily used to find and fix bugs, add features that are commonly requested, and add support for more languages.  Please see the details below for how to request features, report bugs, and submit new translations.
 
-### Bug Report
+### Reporting a bug
 To properly fix any bugs or style/layout issues, I'm going to request a few important pieces of information:
 - Details on what went wrong VS what you expected to happen
 - Which web browser (and version) you are using on which operating system (and version)
