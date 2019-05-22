@@ -1,0 +1,73 @@
+{
+	"pageTitle": "ZERO HOUR SOLVER",
+	"drop": {
+		"about": "About",
+		"how": "How To",
+		"settings": "Settings",
+		"region": "&#x1f1fa;&#x1f1f8;"
+	},
+	"solving": {
+		"void": "Solving for Void Config",
+		"arc": "Solving for Arc Config",
+		"solar": "Solving for Solar Config"
+	},
+	"pad": {
+		"left1": "Console 1 Left",
+		"left2": "Console 2 Left",
+		"left3": "Console 3 Left",
+		"right1": "Console 1 Right",
+		"right2": "Console 2 Right",
+		"right3": "Console 3 Right",
+		"dial": "Dial Reading",
+		"num1": "1",
+		"num2": "2",
+		"num3": "3",
+		"num4": "4",
+		"num5": "5",
+		"num6": "6",
+		"num7": "7",
+		"num8": "8",
+		"num9": "9",
+		"num10": "10",
+		"num11": "11",
+		"num12": "12"
+	},
+	"results": {
+		"terminal": "Terminal",
+		"green": "Green",
+		"white": "White",
+		"yellow": "Yellow",
+		"red": "Red",
+		"cyan": "Cyan",
+		"blue": "Blue",
+		"purple": "Purple",
+		"before": "Console not set yet.",
+		"wrong": "Console Input Invalid, Check 'How To' page to verify you are reading correctly."
+	},
+	"footer": {
+		"built": "Built by",
+		"ver": "Version"
+	},
+	"settings": {
+		"light": "Light",
+		"void": "Void",
+		"arc": "Arc",
+		"solar": "Solar",
+		"theme": "App Theme",
+		"default": "Default (Light)",
+		"dark": "Dark",
+		"lang": "Language"
+	},
+	"about": {
+		"p1": "This solver was built by <a href='https://github.com/Burn-E99' target='_blank'>Ean Milligan</a> to aid in efficient clears of the Zero Hour Void, Arc, and Solar Configurations.  In order to build this tool, I referenced these sources:",
+		"p2": "Finally, if would like to help translate this solver to another language, if you have ideas to improve it, or have found a bug in it, please head over to this project's <a href='https://github.com/Burn-E99/D2ZeroHourConfigurationSolver' target='_blank'>Github page</a>.  Instructions are found in the README."
+	},
+	"how": {
+		"title": "How To Solve the Vault Puzzle",
+		"p1": "<b>Jobs:</b> Primary Console Reader (PCR), Secondary Console Reader (SCR), Runner (R)",
+		"p2": "<b>Setup:</b> PCR goes to the primary console (Console 1 [pink] for Void, Console 2 [brown] for Arc and Console 3 [orange] for solar, see reference 1 for locations) and will read that the whole time. PCR will also run to the nearest terminal rooms.  SCR goes to the secondary console (Console 3 [orange] for Void and Arc, and Console 2 [brown] for Solar) and will input PCR's info into this solver.  SCR will also relay results to all and run to the nearest terminal rooms.  R goes to the unmanned console (Console 2 [brown] for Void, and Console 1 [pink] for Arc and Solar) and will run to the nearest terminal rooms.",
+		"p3": "<b>Short Guide:</b> PCR calls out first config, left to right.  SCR inputs into this solver and if there is more than one result, uses the left of their console to limit it to one.  SCR then relays the Terminal color and number to all.  Whoever is stationed nearest to this terminal runs to it and locks it.  Repeat until complete.",
+		"p4": "References",
+		"r1": "Info Compilation Image"
+	}
+}

@@ -1,0 +1,75 @@
+.page-theme {
+	color: white;
+	background-color: rgb(33,33,33);
+}
+
+.header-theme, .header-theme #drop-down {
+	background-color: rgb(38,47,116);
+	color: rgb(213,214,220);
+	border-bottom: 1px solid rgb(213,214,220);
+}
+
+.header-theme #drop-down {
+	border-left: 1px solid rgb(213,214,220);
+	border-bottom: 1px solid rgb(213,214,220);
+}
+
+.selector-theme #pad-left, .selector-theme #pad-right {
+	background-color: rgb(62,63,69);
+}
+
+.selector-theme button {
+	background-color: rgb(38,47,116);
+	color: rgb(213,214,220);
+}
+
+.selector-theme button.selected {
+	background-color: rgb(115,134,227);
+	color: black;
+}
+
+.results-theme #results-body tr:nth-child(odd) {
+	background-color: rgb(62,63,69);
+}
+
+.results-theme .used {
+	background-color: rgba(21, 255, 0, 0.6) !important;
+}
+
+.footer-theme {
+	background-color: rgb(62,63,69);
+}
+
+.footer-theme a, .overlay-theme a {
+	color: rgb(115,134,227);
+}
+
+.footer-theme a:active, .footer-theme a:visited,
+.overlay-theme a:active, .overlay-theme a:visited {
+	color: rgb(128, 133, 171);
+}
+
+.overlay-theme .over-body-settings select {
+	color: white;
+	border: 1px solid white;
+	background-color: rgb(62,63,69);
+}
+
+.overlay-theme .show-drop {
+	color: rgb(213,214,220);
+	background-color: rgb(38,47,116);
+	border-top: 1px solid rgb(213,214,220);
+}
+
+.overlay-theme .show-overlay {
+	background-color: rgba(0,0,0,0.4);
+}
+
+.overlay-theme .over-box {
+	color: white;
+	background-color: rgb(62,63,69);
+}
+
+.overlay-theme .close-btn {
+	color: white !important;
+}
